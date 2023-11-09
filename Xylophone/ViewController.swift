@@ -4,7 +4,7 @@
 //
 //  Created by Angela Yu on 28/06/2019.
 //  Copyright © 2019 The App Brewery. All rights reserved.
-//  Practiced and modify by Shao-Tsu on 02/11/2023
+//  Practiced and modified by Shao-Tsu on 09/11/2023
 //
 
 import UIKit
@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     }
 
     @IBAction func keyPressed(_ sender: UIButton) {
+        
+        
+        
         playSound()
     }
     
